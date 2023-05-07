@@ -1,0 +1,11 @@
+body {background-color: aliceblue;}
+
+.nome {border-width: 3px;
+border-style: groove;
+text-align: center; color: purple;}
+
+.imagem {border-style: groove; padding: 5px; background-color:purple; float: left;}
+
+.descrição {border-style: groove; border-color: purple; margin-left: 317px; margin-top: 308px;}
+
+li:nth-child(odd) {font-style: italic}
